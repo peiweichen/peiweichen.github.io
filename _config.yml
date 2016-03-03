@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Hi Stranger
+title:            Site Title
 locale:           en_US
-url:			//peiweichen.github.io
+url:
 
 
 # Jekyll configuration
@@ -41,10 +41,10 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Peiwei 
+  name: Your Name
   avatar: bio-photo.jpg
-  bio: "I DO NOT LIKE CODING"
-  email:payway@foxmail.com
+  bio: "Describe your self."
+  email:
   disqus-shortname:
   twitter: #username
   facebook: #username
@@ -55,8 +55,8 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #peiweichen
-  stackoverflow: #3522047/peiweichen   from a "http://stackoverflow.com/users/123456/username" link
+  github: #username
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
   instagram: #username
