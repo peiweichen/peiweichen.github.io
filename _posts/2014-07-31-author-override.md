@@ -26,14 +26,14 @@ billy_rick:
   google:
     plus: BillyRick
 
-cornelius_fiddlebone:
+<!-- cornelius_fiddlebone:
   name: Cornelius Fiddlebone
   email: cornelius@thewhip.com
   bio: "I ordered what?"
   avatar: bio-photo.jpg
   twitter: rhymeswithsackit
   google:
-    plus: CorneliusFiddlebone
+    plus: CorneliusFiddlebone -->
 {% endhighlight %}
 
 To assign Billy Rick as an author for our post. You'd add the following YAML front matter to a post:
