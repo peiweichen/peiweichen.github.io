@@ -4,7 +4,7 @@ title: "深入浅出Swift的Optional?!"
 author: Peiwei
 modified:
 excerpt: "A post to test ?!"
-tags: []
+tags: [iOS,Swift,tutorial,translation]
 ---
 
 当苹果引进Swift的时候，他们有三个主要目标：安全，时尚和强大。其中包含这些特色的就是Swift的Optional.大部分编程语言特色的存在是为了能解决问题，而optional是为了解决问题而自然而然被创造。好了，开始举例。
