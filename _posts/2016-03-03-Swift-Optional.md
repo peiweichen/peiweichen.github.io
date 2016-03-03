@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "深入浅出Swift的Optional?!"
-author: Peiwei
+author: peiwei
 modified:
 excerpt: "A post to test ?!"
 tags: [iOS,Swift,tutorial,translation]
