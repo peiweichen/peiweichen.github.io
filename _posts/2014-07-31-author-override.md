@@ -151,34 +151,6 @@ if let 欠租人Int = findApt("404",aptNumbers)?.toInt()
 
 本文是本人(www.ipeiwei.xyz)敲键盘的翻译文章，原文出处：[原文]("http://blog.teamtreehouse.com/understanding-optionals-swift") for English.
 
-转载请注明出处！
 
 
-<!--{% highlight yaml %}-->
-<!--# Authors-->
-<!---->
-<!--billy_rick:-->
-<!--  name: Billy Rick-->
-<!--  web: http://thewhip.com-->
-<!--  email: billy@rick.com-->
-<!--  bio: "What do you want, jewels? I am a very extravagant man."-->
-<!--  avatar: bio-photo-2.jpg-->
-<!--  twitter: extravagantman-->
-<!--  google:-->
-<!--    plus: BillyRick-->
-<!---->
-<!--cornelius_fiddlebone:-->
-<!--  name: Cornelius Fiddlebone-->
-<!--  email: cornelius@thewhip.com-->
-<!--  bio: "I ordered what?"-->
-<!--  avatar: bio-photo.jpg-->
-<!--  twitter: rhymeswithsackit-->
-<!--  google:-->
-<!--    plus: CorneliusFiddlebone-->
-<!--{% endhighlight %}-->
 
-To assign Billy Rick as an author for our post. You'd add the following YAML front matter to a post:
-
-{% highlight yaml %}
-author: peiwei
-{% endhighlight %}
