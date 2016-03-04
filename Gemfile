@@ -1,7 +1,6 @@
-source "https://rubygems.org"
+source "https://ruby.taobao.org"
 
-gem 'github-pages'
-gem "jekyll", "~> 3.0"
+gem "jekyll"
 gem "jekyll-sitemap"
 gem "jekyll-gist"
 gem "octopress"
