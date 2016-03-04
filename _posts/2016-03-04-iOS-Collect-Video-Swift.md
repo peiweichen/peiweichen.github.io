@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "iOS采集视频配置摄像头"
+title: "iOS视频直播开发note1"
 author: peiwei
 modified:
 excerpt: "How to get video stream from camera in iOS"
