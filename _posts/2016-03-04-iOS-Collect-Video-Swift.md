@@ -11,7 +11,6 @@ tags: [iOS,Swift,tutorial,video,AVFoundation]
 
 ```
 
-
 import UIKit
 import AVFoundation
 
@@ -80,7 +79,9 @@ class ViewController: UIViewController,AVCaptureVideoDataOutputSampleBufferDeleg
         button .addTarget(self, action: "switchCameraPosition", forControlEvents: .TouchUpInside)
     }
     
-    ```
+```
+
+```
     func cameraWithPosition(position:AVCaptureDevicePosition!)->AVCaptureDevice? {
         let devices = AVCaptureDevice.devicesWithMediaType(AVMediaTypeVideo);
         for device in devices {
@@ -122,7 +123,7 @@ class ViewController: UIViewController,AVCaptureVideoDataOutputSampleBufferDeleg
     
 ```
 
- ```
+```
     func captureOutput(captureOutput: AVCaptureOutput!, didOutputSampleBuffer sampleBuffer: CMSampleBuffer!, fromConnection connection: AVCaptureConnection!) {
         if connection == videoConnection {
             print(sampleBuffer);
@@ -130,5 +131,6 @@ class ViewController: UIViewController,AVCaptureVideoDataOutputSampleBufferDeleg
     }
  }
 
+```
 
 
