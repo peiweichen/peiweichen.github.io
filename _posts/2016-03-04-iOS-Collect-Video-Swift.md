@@ -7,14 +7,10 @@ excerpt: "How to get video stream from camera in iOS"
 tags: [iOS,Swift,tutorial,video,AVFoundation]
 ---
 
+本文章旨在配置摄像头，切换摄像头，获取视频流资源
+
 ```
-//
-//  ViewController.swift
-//  live
-//
-//  Created by chenpeiwei on 3/4/16.
-//  Copyright © 2016 Pires.Inc. All rights reserved.
-//
+
 
 import UIKit
 import AVFoundation
@@ -32,8 +28,9 @@ class ViewController: UIViewController,AVCaptureVideoDataOutputSampleBufferDeleg
         self.setupSession()
 
     }
-    
-    
+```    
+
+``` 
     func setupSession() {
         // 获得一个采集设备，例如前置/后置摄像头
         let videoDevice = self.cameraWithPosition(AVCaptureDevicePosition.Front);
@@ -69,7 +66,8 @@ class ViewController: UIViewController,AVCaptureVideoDataOutputSampleBufferDeleg
         
         session.startRunning()
     }
-    
+```
+```
     func setupPreviewLayer() {
         self.previewLayer = AVCaptureVideoPreviewLayer(session: self.session);
         self.previewLayer.videoGravity = AVLayerVideoGravityResizeAspectFill;
@@ -82,6 +80,7 @@ class ViewController: UIViewController,AVCaptureVideoDataOutputSampleBufferDeleg
         button .addTarget(self, action: "switchCameraPosition", forControlEvents: .TouchUpInside)
     }
     
+    ```
     func cameraWithPosition(position:AVCaptureDevicePosition!)->AVCaptureDevice? {
         let devices = AVCaptureDevice.devicesWithMediaType(AVMediaTypeVideo);
         for device in devices {
@@ -92,6 +91,9 @@ class ViewController: UIViewController,AVCaptureVideoDataOutputSampleBufferDeleg
         return nil;
     }
     
+```
+ 
+```
     //切换摄像头  前／后
     func switchCameraPosition() {
         session.beginConfiguration()
@@ -118,15 +120,15 @@ class ViewController: UIViewController,AVCaptureVideoDataOutputSampleBufferDeleg
     }
 
     
+```
+
+ ```
     func captureOutput(captureOutput: AVCaptureOutput!, didOutputSampleBuffer sampleBuffer: CMSampleBuffer!, fromConnection connection: AVCaptureConnection!) {
         if connection == videoConnection {
             print(sampleBuffer);
         }
     }
-    
-    
-}
+ }
 
 
-```
 
