@@ -4,7 +4,7 @@ title: "互联网加班群象给我的思考"
 author: peiwei
 modified:
 excerpt: "my insights into programmer's daily life and company"
-tags: [公司文化，加班，程序员生活]
+tags: [work,life]
 ---
 
 ｀｀｀
