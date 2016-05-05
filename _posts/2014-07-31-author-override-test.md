@@ -7,39 +7,15 @@ excerpt: "test"
 tags: []
 ---
 
-For those of you who may have content written by multiple authors on your site you can now assign different authors to each post if desired.
 
-Previously the theme used a global author for the entire site and those attributes would be used in all bylines, social networking links, Twitter Card attribution, and Google Authorship. These `owner` variables were defined in `config.yml`
-
-Start by modifying or creating a new `authors.yml` file in the `_data` folder and add your authors using the following format.
-
-{% highlight yaml %}
-# Authors
-
-billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
-  avatar: bio-photo-2.jpg
-  twitter: extravagantman
-  google:
-    plus: BillyRick
-
-<!-- cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
-  email: cornelius@thewhip.com
-  bio: "I ordered what?"
-  avatar: bio-photo.jpg
-  twitter: rhymeswithsackit
-  google:
-    plus: CorneliusFiddlebone -->
-{% endhighlight %}
-
-To assign Billy Rick as an author for our post. You'd add the following YAML front matter to a post:
-
-{% highlight yaml %}
-author: billy_rick
-{% endhighlight %}
+`A:今天我缓慢睁开眼那瞬间，觉得头还是晕晕沉沉的，太阳有点刺眼，看了看手机的时间，8:50，哎，继续睡会，有点忐忑地反转身趴了一下。做了一个小噩梦，眼睛猛地张开，有点冒冷汗，慌张地看了看时间，9:30，卧槽，还有30分钟迟到，我一跃而起，收拾了一下打开着的笔记本，屏幕满是灰尘，背起沉沉的黑色瑞士电脑包。上班路上，觉得时间很慢，太阳很大，水泥路的热气蒸蒸而上，一路忐忑，看了一下表：9:56，算是没迟到，到公司时很安静，也没有人注意到我，每个人都在盯着电脑，我安份地坐下，终于到了，倒了杯水吃完三明治，已是10:20，打开微信，刷了一眼聊天列表，充斥着各种信息的群，拉一下朋友圈，点了两三个赞，10:33分，好了，开始工作，昨晚努力到很晚还没解决的BUG突然有了思路，这尼玛几分钟的事情，昨晚为甚么花了那么长时间没解决。突然困困的，趴了一下桌子，时间过得飞快，很快12点半，差不多一点我一个人去楼下吃了快餐，吃完觉得更困，我快步走回去，坐在椅子上，刷刷朋友圈，翻翻流行的美剧，看看流行的代码，很快3点了，这个时候最困了，想想今晚下班还是遥遥无期，哎，是时候换个工作了，新闻软件刚刚推了一个新闻：月薪过万大学生辞职回乡开水果店，嗯，我有点理解为什么了。继续写点代码，那个问题为什么一直解决不了呢？很快6点了，这时感觉公司的一天刚刚开始了，开始有人交流，产品拿着他最新酷炫的idea过来了，CEO出现了，并丢给我们一堆酷炫的新产品。好的，所有人加足马力。不知道为什么，7点了，却没甚么胃口，公司陆续有人走了，我大脑很昏沉，我感觉自己没有想走的欲望，稍微抬头看，大部分开发都还在，大家都很努力地安安静静地加油着，嗯，我也要努力一把，坐下，继续......8点，这时，我理直气壮地下班，出公司门的时候，我的大脑空空的，满怀期待地打开微信，有点失落地看着 一堆群聊在天马行空地blalala...凌晨一点的时候，我有点睡不着，但是却不想起床，头晕晕的不知道干点什么好，我打开手机微信，看了别人分享的一碗碗鸡汤，“嗯！今天我的坚持是值得的。”`
 
 
+
+
+
+
+
+
+
+`B:窗外温柔的太阳升了半边天，我平静地起床，摸了摸也是刚醒的小狗的头，给他添水添饭，拿着浴巾洗了个热水澡，喝了杯蜂蜜水，突然想起昨晚团队出去吃喝玩乐时设计师提的idea,我把它优化了一下，迅速用笔记录下来，打开macbook,进入忘我的程序世界，给我们的app增加了一个新功能。我煎了两个蛋，一碗粥，吃完看了一篇很有趣的文章。换上轻便喜欢的装束，开上小电摩回到公司，我迎着产品小哥的微笑，一脸不怀好意的微笑，似乎还在惦记昨晚出去玩的那个恶作剧。我给他看了早上突发奇想的新功能，经过辩论我们优化了这个功能，并把它加到app上去，办公室一直叽叽喳喳的，充斥着男男女女的讨论声，笑声，声声入耳，墙壁刷的很白，顺着昨天的总结和需求，早上我花了两个小时把需求全部完成了。中午比较安静，比较随意。下午2点，慢慢地恢复了活力，大家都在干点什么东西的样子，3点的时候我们小分组几个人出去外面讨论了一些小需求，喝了个小茶，回公司的时候遇见一个开着三轮车装货物的老大哥车胎爆胎，我们帮他把货物搬移到另外一辆救援的车上。回公司看了几篇文章，大致理了一下解决方案和思路。五点半了，有点不好意思地打断了几个人的思路，带上他们吃饭，然后去看一场随心的音乐会，整个晚上大脑似乎都在后台工作着，不时会有点idea,为着那个我们深深爱着的，把我们的命运绑在一起的公司。`
