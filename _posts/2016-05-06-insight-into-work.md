@@ -3,8 +3,8 @@ layout: post
 title: "互联网加班群象给我的思考"
 author: peiwei
 modified:
-excerpt: "my insights into programmer's daily life and company"
-tags: [work,life]
+excerpt: "my insights into programmer"
+tags: [iOS,Swift,tutorial,video,AVFoundation]
 ---
 
 
