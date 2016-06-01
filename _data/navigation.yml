@@ -1,10 +1,10 @@
 # Site navigation links
 
-- title: About
+- title: Resume 简历
   url: /about/
 
-- title: Sample Posts
+- title: Posts 文章
   url: /posts/
 
-- title: Theme Setup
+- title: Theme Credit
   url: /theme-setup/
