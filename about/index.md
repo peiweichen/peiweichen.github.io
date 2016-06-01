@@ -9,6 +9,9 @@ image:
   credit: peiwei
 ---
 
+
+
+
 ##简介	
 
 陈培伟，主导过四个iOS App开发，92年出生，男，3年开发经验
