@@ -5,9 +5,8 @@ tags: [Peiwei, Resume]
 modified: 2016-06-01T19:05:07.573882-19:00
 comments: true
 image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: peiwei_surfing1.jpg
+  credit: peiwei
 ---
 
 ##简介	
@@ -20,7 +19,6 @@ Tennessee University At Knoxville ,交换生 ,2014年 ,计算机科学
 
 ## 项目经验:
 
-项目经验  
 
 ###1.图片社区类App：
 * 主导开发，技术架构是Objective-C+MVVM+ReactiveCocoa+FMDB+AFNetworking+Mantle+SDWebImage+Masonry+Openshare
@@ -95,6 +93,6 @@ Instagram : https://www.instagram.com/peiweichen/
 
 
 
-==目前我正积极地寻求Remote的工作，或者外包项目==
+### 目前我正积极地寻求Remote的工作，或者外包项目
 
 
