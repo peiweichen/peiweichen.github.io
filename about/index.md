@@ -91,20 +91,20 @@ Tennessee University At Knoxville ,交换生 ,2014年 ,计算机科学
 #### 截至6月1号的学习状况：
 
 * 已经自学了如何利用Swift和SpritKit做Flappy Bird游戏，准备做一个中文教程
-* 准备将<a markdown="0" href="https://github.com/coolbeet/CBStoreHouseRefreshControl" class="btn">CBStoreHouseRefreshControl</a>转换成Swift版本，在github开源
+* 准备将<a markdown="0" href="https://github.com/coolbeet/CBStoreHouseRefreshControl">CBStoreHouseRefreshControl</a>转换成Swift版本，在github开源
 
 
 
-##关于我的更多：
+## 关于我的更多：
 
 
-Github  : https://github.com/peiweichen
-Wechat : 13128981404
-Phone   : +(86)13128981404
-Email    : peiwei233@gmail.com
-Linkedin:www.linkedin.com/in/peiwei233
-Blog       :  http://peiweichen.github.io
-Instagram : https://www.instagram.com/peiweichen/
+* Github  : https://github.com/peiweichen
+* Wechat : 13128981404
+* Phone   : +(86)13128981404
+* Email    : peiwei233@gmail.com
+* Linkedin:www.linkedin.com/in/peiwei233
+* Blog       :  http://peiweichen.github.io
+* Instagram : https://www.instagram.com/peiweichen/
 
 
 
