@@ -1,6 +1,9 @@
 # Site navigation links
 
-- title: Resume 简历
+- title: Resume 
+  url: /about/
+  
+- title: 简历
   url: /about/
 
 - title: Posts 文章
