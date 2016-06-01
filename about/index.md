@@ -12,7 +12,7 @@ image:
 ##简介	
 
 陈培伟，主导过四个iOS App开发，92年出生，男，3年开发经验
-结果导向型，注重产出效率和沟通成本。
+结果导向型，注重产出效率和沟通成本
 
 ##教育经历
 
@@ -22,7 +22,7 @@ Tennessee University At Knoxville ,交换生 ,2014年 ,计算机科学
 ## 项目经验:
 
 
-###1.图片社区类App：
+##1.图片社区类App：
 
 * 主导开发，技术架构是Objective-C+MVVM+ReactiveCocoa+FMDB+AFNetworking+Mantle+SDWebImage+Masonry+Openshare
 * 技术点：
