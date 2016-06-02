@@ -58,7 +58,7 @@ image:
 ### More：
 
 * <a markdown="0" href="https://github.com/peiweichen">Github</a>
-* <a markdown="0" href="www.linkedin.com/in/peiwei233">Linkedin</a>
+* <a markdown="0" href="https://www.linkedin.com/in/peiwei233">Linkedin</a>
 * <a markdown="0" href="https://www.instagram.com/peiweichen/">Instagram</a>
 * Email    : peiwei233@gmail.com
 * Phone   : +(86)13128981404
