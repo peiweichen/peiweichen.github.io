@@ -34,7 +34,6 @@ image:
 * Photo edit community
 * Framework : Objective-C+MVVM+ReactiveCocoa
 * +FMDB+AFNetworking+Mantle+SDWebImage+Masonry+Openshare
-
 * MVVM+ReactiveCocoa to implement data synchronization among viewcontrollers.
 
 #### 2.Live Streaming App: 
