@@ -91,13 +91,12 @@ image:
 
 
 ## 关于我的更多：
-* Github  : https://github.com/peiweichen
-* Wechat : 13128981404
-* Phone   : +(86)13128981404
+* <a markdown="0" href="https://github.com/peiweichen">Github</a>
+* <a markdown="0" href="www.linkedin.com/in/peiwei233">Linkedin</a>
+* <a markdown="0" href="https://www.instagram.com/peiweichen/">Instagram</a>
 * Email    : peiwei233@gmail.com
-* Linkedin:www.linkedin.com/in/peiwei233
-* Blog       :  http://peiweichen.github.io
-* Instagram : https://www.instagram.com/peiweichen/
+* Phone   : +(86)13128981404
+* Wechat : 13128981404
 
 
 

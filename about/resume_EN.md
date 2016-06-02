@@ -57,13 +57,12 @@ image:
 
 ### More：
 
-* Github  : https://github.com/peiweichen
-* Blog       :  http://peiweichen.github.io
-* Linkedin:www.linkedin.com/in/peiwei233
-* Wechat : 13128981404
-* Phone   : +(86)13128981404
+* <a markdown="0" href="https://github.com/peiweichen">Github</a>
+* <a markdown="0" href="www.linkedin.com/in/peiwei233">Linkedin</a>
+* <a markdown="0" href="https://www.instagram.com/peiweichen/">Instagram</a>
 * Email    : peiwei233@gmail.com
-* Instagram : https://www.instagram.com/peiweichen/
+* Phone   : +(86)13128981404
+* Wechat : 13128981404
 
 
 
