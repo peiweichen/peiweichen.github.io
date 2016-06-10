@@ -1,13 +1,11 @@
 ---
 layout: post
-title: "理解UIScrollView的contentOffset和contentInset"
+title: "图解UIScrollView的contentOffset和contentInset"
 author: peiwei
 modified:
 excerpt: "feeling the contentOffset and contentInset properties of the UIScrollView class"
 tags: [iOS,Swift,tutorial,scrollview,contentinset,contentoffset]
 ---
-
-理解 UIScrollView的contentOffset和contentInset
 
 第一步，理解scrollview的content view，例如我们平时在刷微博，推特时，scrollview的content view会比屏幕大。
 看一下下图,content view用 '#'围起来，用‘－’围起来的方形是我们的手机屏幕：
@@ -54,6 +52,7 @@ ________________ <------ content view's y = 0
 
 ```
 contentOffset = CGPoint(x: 0.0, y: 40.0)  
+
    ############
    #    40    #
  __#__________#__  <------ content view's y = 40
